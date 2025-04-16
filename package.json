@@ -1,0 +1,13 @@
+{
+  "name": "create-adk-app",
+  "version": "1.0.0",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["adk"],
+  "author": "Franziska Hinkelmann <fhinkel@vt.edu>",
+  "license": "ISC",
+  "description": "Create the directory structure for an Agent Development Kit agent."
+}
